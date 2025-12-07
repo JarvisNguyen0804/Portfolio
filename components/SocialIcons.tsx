@@ -25,7 +25,7 @@ export default function SocialIcons() {
             </a>
 
             <a
-                href="/JARVIS_NGUYEN_Resume_2026.pdf"
+                href="/JARVIS_NGUYEN_Resume.pdf"
                 download
                 title="Download my resume"
                 className="p-2 rounded-full hover:bg-neutral-800 transition-all"
